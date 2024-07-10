@@ -275,7 +275,7 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    - [Discord info link](https://www.hawaiidiscord.com/)
    - [Discord invite link](https://discord.gg/egR2m6Tp76)
 
-3. Hawaii Hackathon
+3. Hawaii Hackathons
 
    A great opportunity to collaborate with inspired innovators and network.
 
