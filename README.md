@@ -2,6 +2,9 @@
 
 ## Challenge Instructions
 
+![Intern Markdown Challenge](images/banner.webp)
+
+
 Become proficient in Markdown. Follow the instructions below to complete 
 the challenge.
 
