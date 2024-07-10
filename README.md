@@ -129,4 +129,92 @@ codygima
 
 balderek
 
+# About Me (balderekjk)
+
+## Background (balderekjk)
+
+I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology.
+
+## Interests (balderekjk)
+
+I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web).
+
+Markdown also looks very nice by itself, even saved as a .txt file.
+
+Recently I've been exploring Astro on my own time. It is a sweet meta-framework, great for sites that are primarily static but need some parts interactive. ".astro" files are basically just superpowered html with frontmatter and scoped css. Also gives ability to write pages in markdown, extended markdown, and other markdown flavors.
+
+I enjoy books but have been in a reading rut for the last two years. I highly recommend Kurt Vonnegut's "Welcome to the Monkey House," for a collection of insightful and amusing short stories.
+
+## Random Hawaii Resources (balderekjk)
+
+I was quite inspired by today's meeting. I want to share some recs to stay in the loop. I know more-so Maui resources at the moment...
+
+1. Maui Techies Group Meetups
+
+   They meet every 4th Monday of the month. People, old and new gather together. Fanstastic networking opportunity.
+
+   - [Meetup link](https://www.meetup.com/maui-techies-meetup/)
+   - [Hawaiitech link](https://events.hawaiitech.com/event/maui-techies-meetup-at-maui-brewing-company-6-24-2024/)
+   - [Facebook link](https://www.facebook.com/groups/404808369670064/)
+
+   An aside, there are some members of Maui Techies who come out for Wednesday runs at Kalama Park (run starts at 5:30pm, meet by volleyball net).
+
+2. Hawaii Slack (and Hawaii Discord)
+
+   I was made aware of this channel by a Maui Techies member.
+
+   A slack dedicated to building community opportunities, including tech. Both Oahu and Maui. Join and keep tabs. There are two sub-channels for seeking and recruiting jobs.
+
+   Their sister site is Hawaii Discord.
+
+   Hawaii Discord Coda:
+
+   > Hawaii Discord (and its sister site Hawaii Slack) is part of the [Hawaii Hui](https://www.hawaiihui.com/). Founded in 1994 by Ryan Kawailani Ozawa, Hawaii Hui LLC (formerly Leahi.Net) is the largest and longest-running blog network and online publishing group in the Aloha State.
+
+   - [Slack invite link](https://hawaii.slack.com/join/shared_invite/zt-lvudhfgm-65TFeCxlcNs2wWqHMTUVtg)
+   - [Discord info link](https://www.hawaiidiscord.com/)
+   - [Discord invite link](https://discord.gg/egR2m6Tp76)
+
+3. Hawaii Hackathon
+
+   A great opportunity to collaborate with inspired innovators and network.
+
+   - [Official link](https://hacc.hawaii.gov/)
+
+4. Code Block
+
+   Code blocks are sweet. After the opening three backticks ` ``` `, specify your language `javascript` like:
+
+   > \```javascript  
+   function HelloARL() {  
+   &nbsp;&nbsp;console.log('ARL Oahu and Maui are awesome and supportive.');  
+   }  
+   HelloARL();  
+   \```
+
+   The above will render like:
+
+   ```javascript
+   function HelloARL() {
+     console.log('ARL Oahu and Maui are awesome and supportive.');
+   }
+   HelloARL();
+   ```
+
+5. Tables
+
+   |Tables|are|fun|
+   |:---:|:---|---:|
+   |I am centered|I am left|I am right|
+
+6. Surprise Me!
+
+   Here's a footnote. Don't give up hope[^1].
+
+   [^1]: [Pure inspiration](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+   Almost forgot the image:
+
+   ![Keep it 100](https://placehold.co/100)
+
 MatthewLabasan
