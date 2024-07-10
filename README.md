@@ -233,7 +233,7 @@ balderek
 
 ## Background (balderekjk)
 
-I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology.
+I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology. A new line appears.
 
 ## Interests (balderekjk)
 
