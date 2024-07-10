@@ -1,9 +1,3 @@
-# Markdown Challenge
+# THIS IS WHY BEEF LIVER!!!
 
-## This is MY Markdown! 👇
-
-### A little about myself!
-
-Hello and welcome to my Markdown challenge. I'm Kailana and I have a very broad range of hobbies and interests. Specifically in my tech interests, I enjoy learning about networking and how information flows throughout the internet. I also enjoy fooling around with penetration testing (using sites designed to be infiltrated of course).
-
-I am interested in IT management specifically focused on the management of security. I hope to gain experience one day as an IT specialist then work up to to Network Admin, then ISSO (Info Sys Sec Officer). Eventually, I would hope to earn a position as CISO (Chief Info Sec Officer). I also would like to start my own IT consulting firm here on Maui one day.
+Listen up, folks! Beef liver isn't just another food—it's the undisputed GOAT food of all time. Enjoy your vitamins A, B12, and iron? Well this powerhouse of nutrition kicks the butt of every other food out there. Need energy? Beef liver's got your back with B vitamins that'll put your morning coffee to shame. Worried about your immune system? Say no more—vitamin A and zinc in beef liver will have those germs running for cover. And let's talk about muscle power—protein-packed beef liver will pump you up better than any trendy protein shake. Don't settle for wimpy foods when you can have the ultimate fuel for your body and mind. Beef liver—it's not just good, it's the freaking best, and anyone who says otherwise clearly hasn't tasted greatness! RAAAAHHH!!!
