@@ -237,7 +237,7 @@ I am Maui raised not born, born of Colorado, early childhood in Illinois, since 
 
 ## Interests (balderekjk)
 
-I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web).
+I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web). New sentence.
 
 Markdown also looks very nice by itself, even saved as a .txt file.
 
