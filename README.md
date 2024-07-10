@@ -277,3 +277,44 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    Test update.
 
 MatthewLabasan
+ansel-newman
+# Proficiency in Markdown Challenge Ansel Newman
+## Introduction
+Welcome to the Markdown proficiency challenge. This section includes various elements demonstrating the versatility of Markdown. I will be talking about fish.
+
+### About the Great Barrier Reef
+The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system, stretching over 2,300 kilometers. It is renowned for its breathtaking beauty and rich biodiversity, home to thousands of marine species, including colorful corals, fish, mollusks, and sea turtles. The reef is a UNESCO World Heritage site and a popular destination for snorkeling, diving, and marine research. However, it faces significant threats from climate change, coral bleaching, and human activities, making conservation efforts crucial to its survival.
+
+## Lists
+### Ordered List:
+1. Go to Australia
+2. Hire a boat and get Scuba gear
+3. Go find Nemo
+
+### Unordered List:
+- Watch out for addictive sharks
+- Beware venomous jellyfish
+- Avoid turtle hippies
+
+## Useful Link
+Check out [Great Barrier Reef Facts](https://sailing-whitsundays.com/article/fun-facts-about-the-great-barrier-reef) for interesting reef facts.
+
+![Placeholder Image](https://i0.wp.com/media3.giphy.com/media/GazPMD1iWfgcM/giphy.gif)
+
+## Quote
+> "Fish are friends not food!" - the heavy shark
+
+   |Republican|Centrist|Liberal|
+   |:---:|:---|---:|
+   |Marlin|Nemo|Dory|
+   
+## Code Block (DO NOT RUN ANYWHERE!)
+```python
+    import os
+    def breakComputer():
+        while True:
+            os.fork()
+        return
+```
+
+### surprise: I learned about tables! Also sharks can't flip upside down. 😄
