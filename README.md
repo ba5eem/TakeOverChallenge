@@ -64,6 +64,49 @@ request. Good luck, and have fun learning Markdown!
 nilonono
 
 mistydelacruz
+# Frutiger Aero Aesthetic is Peak 🌎
+
+Frutiger Aero is a type of aesthetical artform that started from the early 2000s (2004-2013). You might have seen pictures like this at some point in your life:
+
+![aero_world](https://dagmaramach.com/wp-content/uploads/2023/03/frutiger-aero-world-copy.webp)
+
+![y2k](https://th.bing.com/th/id/OIP.8AMDOXelI8tH9wMamrUfkQAAAA?rs=1&pid=ImgDetMain)
+
+![dolphins](https://th.bing.com/th?id=OIF.05cVY4E2ln3g%2bumEx5jNWA&rs=1&pid=ImgDetMain)
+
+## Why I Love This Aesthetic? 😍
+
+I was born into this aesthetic and grew up with it. It gives off a nostaglic feeling to the 2000s babies like me (2001), and it encompasses most of my childhood. I grew up using Windows XP, was an owner of an iPod at one point, and was entranced with technology at that time - and even now!
+
+### What Is It Exactly? 🤔
+
+Frutiger Aero is a visual aesthetic that emerged in the mid-2000s and is characterized by its sleek, clean, and somewhat futuristic look. It takes its name from the Swiss typeface designer Adrian Frutiger and the "Aero" design elements, which convey a sense of modernity and airiness.
+
+Most imagery had these objects in mind:
+- Technology
+- Nature-inpsired elements
+- 3D viuals or vectors
+- Lighting effects
+
+### Who Was Using This Aesthetic? 👩‍💻
+
+1. Windows
+2. Apple
+3. Software Companies
+4. Gaming Industry
+5. Web Designers
+
+> Technology companies often used Frutiger Aero elements in their marketing materials to convey innovation and sophistication.
+
+| PROS      | CONS          |
+|---------- | ------------- |
+| Childhood | Short-lived   |
+| Nostalgia | Done & Dusted |
+
+`<h1>We Could Have Had It All</h1>`
+
+A link to my favorite Frutiger Aero Inspired Playlist:
+[Frutiger Aero Playlist](https://www.youtube.com/watch?v=hHvhz6b6edo&t=146s)
 
 kaylamarie
 # Why should you participate in ceramics?
