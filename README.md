@@ -107,7 +107,7 @@ Most imagery had these objects in mind:
 `<h1>We Could Have Had It All</h1>`
 
 A link to my favorite Frutiger Aero Inspired Playlist:
-[Frutiger Aero Playlist](https://www.youtube.com/watch?v=hHvhz6b6edo&t=146s))
+[Frutiger Aero Playlist](https://www.youtube.com/watch?v=hHvhz6b6edo&t=146s)
 
 kaylamarie
 
@@ -119,146 +119,8 @@ joshuaMori
 
 dangabrielle
 
-# Why Matcha is Good for the SOUL
-
-## It's a great substitute for drinking coffee.
-
-### It's rich in antioxidants!
-
-I love to make matcha at home. I use ceremonial grade matcha from Kyoto, Japan using a bamboo whisk to get all those earthy and nutty notes from the matcha powder. And no, matcha does not taste like grass. If you think it tastes like grass, you have not encompassed the beauty of good matcha. Shame shame.
-
-Gabi's Matcha Recipe:
-Ingredients:
-
-- 1 tbsp Ceremonial Grade Matcha (preferred)
-- A gorgeous and aesthetic 8oz glass cup
-- Some ice
-- Almond milk (or other milk of your choice, almond tends to not overpower the matcha)
-- honey or any sweetener of your liking
-- A strainer
-- A small bowl
-- Bamboo whisk or electric frother (I like to use a bamboo whisk because it makes me think it tastes better)
-- Hot water (about 175 F)
-- A pretty glass straw
-
-1. In a bowl, sift 1 tbsp of matcha using a strainer.
-2. Add hot water till about 1/3 of the bowl. Make sure you're using a small bowl, I personally did not think of measuring the amount of water I use. Whoops.
-3. Whisk matcha with bamboo whisk in a "W" shaped motion, being sure not to hit the base of the bowl. Add sweetener (honey for ex). Mix well.
-4. Add some ice cubes in a glass cup and pour milk till about 3/4 of the cup.
-5. Add whisked matcha/honey into glass containing almond milk.
-6. Add glass straw and enjoy.
-
-### Buy Matcha Here:
-
-Very affordable. I buy the 200g can of Aoarashi since it's the cheapest, but I recently bought Yugen and have been enjoying it a lot. Sorry it's all sold out currently but definitely recommend!
-[Marukyu-Koyamen Matcha](https://www.marukyu-koyamaen.co.jp/english/shop/products/category/matcha/?viewall=1)
-
-<img src="https://www.butteredsideupblog.com/wp-content/uploads/2023/03/Iced-Matcha-Latte-Recipe-4-1356x2048.jpg.webp" height="500" alt="Matcha Latte">
-
-> One day, my dream is to move to Kyoto, Japan and start a matcha farm.
-
-`const matcha = {
-    isTheBest: true;
-}
-`
-
-| Matcha     | Coffee             |
-| ---------- | ------------------ |
-| the GOAT   | Gives you anxiety  |
-| Energizing | Tastes good though |
-
-_With all that said, I still actually drink 4 shots of espresso daily. And matcha. :D_
-
 codygima
 
 balderek
-
-# About Me (balderekjk)
-
-## Background (balderekjk)
-
-I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology.
-
-## Interests (balderekjk)
-
-I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web).
-
-Markdown also looks very nice by itself, even saved as a .txt file.
-
-Recently I've been exploring Astro on my own time. It is a sweet meta-framework, great for sites that are primarily static but need some parts interactive. ".astro" files are basically just superpowered html with frontmatter and scoped css. Also gives ability to write pages in markdown, extended markdown, and other markdown flavors.
-
-I enjoy books but have been in a reading rut for the last two years. I highly recommend Kurt Vonnegut's "Welcome to the Monkey House," for a collection of insightful and amusing short stories.
-
-## Random Hawaii Resources (balderekjk)
-
-I was quite inspired by today's meeting. I want to share some recs to stay in the loop. I know more-so Maui resources at the moment...
-
-1. Maui Techies Group Meetups
-
-   They meet every 4th Monday of the month. People, old and new gather together. Fanstastic networking opportunity.
-
-   - [Meetup link](https://www.meetup.com/maui-techies-meetup/)
-   - [Hawaiitech link](https://events.hawaiitech.com/event/maui-techies-meetup-at-maui-brewing-company-6-24-2024/)
-   - [Facebook link](https://www.facebook.com/groups/404808369670064/)
-
-   An aside, there are some members of Maui Techies who come out for Wednesday runs at Kalama Park (run starts at 5:30pm, meet by volleyball net).
-
-2. Hawaii Slack (and Hawaii Discord)
-
-   I was made aware of this channel by a Maui Techies member.
-
-   A slack dedicated to building community opportunities, including tech. Both Oahu and Maui. Join and keep tabs. There are two sub-channels for seeking and recruiting jobs.
-
-   Their sister site is Hawaii Discord.
-
-   Hawaii Discord Coda:
-
-   > Hawaii Discord (and its sister site Hawaii Slack) is part of the [Hawaii Hui](https://www.hawaiihui.com/). Founded in 1994 by Ryan Kawailani Ozawa, Hawaii Hui LLC (formerly Leahi.Net) is the largest and longest-running blog network and online publishing group in the Aloha State.
-
-   - [Slack invite link](https://hawaii.slack.com/join/shared_invite/zt-lvudhfgm-65TFeCxlcNs2wWqHMTUVtg)
-   - [Discord info link](https://www.hawaiidiscord.com/)
-   - [Discord invite link](https://discord.gg/egR2m6Tp76)
-
-3. Hawaii Hackathon
-
-   A great opportunity to collaborate with inspired innovators and network.
-
-   - [Official link](https://hacc.hawaii.gov/)
-
-4. Code Block
-
-   Code blocks are sweet. After the opening three backticks ` ``` `, specify your language `javascript` like:
-
-   > \```javascript  
-   function HelloARL() {  
-   &nbsp;&nbsp;console.log('ARL Oahu and Maui are awesome and supportive.');  
-   }  
-   HelloARL();  
-   \```
-
-   The above will render like:
-
-   ```javascript
-   function HelloARL() {
-     console.log('ARL Oahu and Maui are awesome and supportive.');
-   }
-   HelloARL();
-   ```
-
-5. Tables
-
-   |Tables|are|fun|
-   |:---:|:---|---:|
-   |I am centered|I am left|I am right|
-
-6. Surprise Me!
-
-   Here's a footnote. Don't give up hope[^1].
-
-   [^1]: [Pure inspiration](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-   Almost forgot the image:
-
-   ![Keep it 100](https://placehold.co/100)
 
 MatthewLabasan
