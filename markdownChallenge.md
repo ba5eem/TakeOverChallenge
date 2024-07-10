@@ -2,7 +2,7 @@
 
 ## This is MY Markdown! 👇
 
-### Welcome, I hope you enjoy!
+### A little about myself!
 
 Hello and welcome to my Markdown challenge. I'm Kailana and I have a very broad range of hobbies and interests. Specifically in my tech interests, I enjoy learning about networking and how information flows throughout the internet. I also enjoy fooling around with penetration testing (using sites designed to be infiltrated of course).
 
