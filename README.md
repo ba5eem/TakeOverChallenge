@@ -258,13 +258,13 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    HelloARL();
    ```
 
-5. Tables
+5. Tables (balderekjk)
 
    |Tables|are|fun|
    |:---:|:---|---:|
    |I am centered|I am left|I am right|
 
-6. Surprise Me!
+6. Surprise Me! (balderekjk)
 
    Here's a footnote. Don't give up hope[^1].
 
