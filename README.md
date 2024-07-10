@@ -66,6 +66,63 @@ nilonono
 mistydelacruz
 
 kaylamarie
+# Why should you participate in ceramics?
+[**Pottery**](https://en.wikipedia.org/wiki/Pottery), one of the oldest human crafts dating back to around 29,000 BCE, began as a necessity for creating durable containers but evolved into a significant cultural and artistic endeavor. Over time, it became a medium for artistic expression and cultural storytelling, with civilizations like the Greeks and Chinese developing renowned techniques and designs. Today, pottery blends functionality with beauty and remains a vital part of cultural heritage and artistic practice.
+## Benefits
+### Mental Health
+- Stress Relief: Creating art and pottery can be very relaxing, helping to reduce stress and anxiety.
+- Mindfulness: Focusing on the creative process helps cultivate mindfulness, and encourages being present in the moment.
+- Emotional Expression: Art provides a medium to express emotions and thoughts that might be difficult to verbalize.
+ - Mental Stimulation: Art stimulates the brain, encouraging problem-solving and innovative thinking.
+### Physical Health 
+1. Fine Motor Skills: Working with clay and other materials enhances fine motor skills and hand-eye coordination.
+
+2. Hand Strength: Kneading and shaping clay can strengthen hand muscles and improve dexterity.
+
+3. Sensory Experience: The tactile experience of working with different textures and materials can be very soothing and engaging.
+### Cognitive Benefits
+| Benefits               | Cost      |
+|------------------------|-----------|
+| Creativity Boost       | Priceless |
+| Problem-Solving Skills | Priceless |
+| Memory Enhancement     | Priceless |
+### Educational Benefits 
+>"Shaping clay with our hands teaches our children to be nimble and strong, vital for daily tasks and survival. Crafting pots and vessels stirs our minds, making us think creatively and solve problems as we shape and decorate. Through pottery, we share and preserve our tribe's stories and traditions, passing wisdom from one generation to the next." - ***ChatGPT on pottery, as if it were from 29,000 BCE***
+## My Fruit Coasters
+![](images/clay_coaster.jpeg)
+These are the fruit coasters I made last Friday in my ceramics class. This Friday we go back to paint them!
+### </br> Can you guess what fruits they are? </br>
+<details> 
+    <summary>
+Hit the triangle to find out!
+    </summary>
+ Top to bottom: </br> Kiwi, Pineapple, Orange, Papaya, Peach
+</details>
+
+```python
+class Pottery:
+    def __init__(self):
+        self.steps = [
+            "Prepare clay",
+            "Create shape",
+            "Dry pottery",
+            "Decorate pottery",
+            "Fire pottery"
+        ]
+
+    def create_pottery(self):
+        for step in self.steps:
+            print(f"{step}...")
+
+# Example of creating pottery
+pottery = Pottery()
+pottery.create_pottery()
+
+```
+
+
+
+
 
 kailanabaylosis
 
