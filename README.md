@@ -2,7 +2,8 @@
 
 ## Challenge Instructions
 
-![Intern Markdown Challenge](images/banner.webp)
+<img src="images/banner.webp" alt="Intern Markdown Challenge" 
+width="50%">
 
 
 Become proficient in Markdown. Follow the instructions below to complete 
