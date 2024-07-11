@@ -169,8 +169,43 @@ pottery.create_pottery()
 
 kailanabaylosis
 
-joviTerawaki
+joviTerawaki  
+# About Rason  
+Rason, aka Jason and Ross, are the software mentors for Maui High Robotics. They enjoy spending their Saturdays and various weekdays in our library criticizing auto plans and talking about Minecraft. They are most beloved and like third and fourth fathers to us :)  
 
+## Who are these guys???  
+### [Jason](https://www.linkedin.com/in/jason-hirata-msme/)   
+<img width="173" alt="Screenshot 2024-07-10 at 3 46 19 PM" src="https://github.com/ba5eem/TakeOverChallenge/assets/97433307/e1570890-7685-4c7d-a2c9-f156e2ab1361">  
+
+Jason is an avid watcher of anime and *very very* buff 💪. He helps out on the javascript side a lot and like to be sarcastic. nice guy.  
+
+###  [Ross](https://www.linkedin.com/in/ross-matoi-a55395260/?trk=public-profile-join-page)   
+<img width="161" alt="Screenshot 2024-07-10 at 3 46 27 PM" src="https://github.com/ba5eem/TakeOverChallenge/assets/97433307/14933ba4-fb5a-492b-889f-cebe9050af26">  
+
+Ross is your Japanese dad teaching you math at the dinner table in the middle of the night. All software issues are magically fixed after a good scolding from Rossman. He's just that good. He told me I'm allowed to live after my auto worked during playoffs. Thank god.  
+
+## Why we like Rason  
+
+Rason  | Imada
+------------- | -------------
+Play Minecraft  | Plays Valorant
+Have a cute nickname  | Imada 
+
+
+Also:  
+* Not afraid to yell at us 
+* Very funny 
+
+**RANKING** 
+1. Ross
+2. Jason
+      
+> Biased because I spend more time with Ross
+
+
+`// Ross approves of the anti-Waia auto 🙏🙏`  
+
+          
 joshuaMori
 
 dangabrielle
