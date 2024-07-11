@@ -500,7 +500,7 @@ I absolutely love documenting my food and eating out (even though it's so pricey
 * __i-naba Honolulu__ - this was the first place i ordered soba at and it was delicious. its right on s king st a little past university ave in Honolulu
 * __Nud Pob Thai__ - cute little thai restaurant in the middle of Boston Uni. super cheap and ate it all the time when i visit my bu friends
 * __HOODA HALALA FOOD TRUCK__ - food truck located across columbia's main gates ITS LITERALLY MY RIDE OR DIE THEY HAVE THE BEST HALAL FOR $10 its such a great meal but also a trauma meal because everyone gets it in the dead of night amidst studying. it was a five minute walk in the freezing wind from my dorm(which isn't that long ig) but it was always worth it
-![Hooda Man](images/hooda.png "Hooda Halal Man)
+![Hooda Man](images/hooda.png "Hooda Halal Man")
 > 'We are family' - my favorite Hooda Halal server
 
 ## The code behind Beli
