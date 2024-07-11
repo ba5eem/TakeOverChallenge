@@ -522,7 +522,7 @@ my_favorite_app.print_favorite_app()
 | :---: | :---: | :---:
 52 :star: | 48 :stuck_out_tongue_winking_eye: | 0 :disappointed:
 
-I learned you can link within your read me! This is super cool and useful in documentation.
+I learned you can link to places in your read me! This is super cool and useful in documentation.
 [Go back to my introduction button!](#matt-intro) 
 
 Thanks Gabi for the cheat sheet! It was super helpful!! 
