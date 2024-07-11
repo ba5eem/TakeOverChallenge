@@ -169,6 +169,77 @@ pottery.create_pottery()
 
 kailanabaylosis
 
+# THIS IS WHY BEEF LIVER!!!
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/86b29045-c223-4a33-be7f-d70211f37bcc)
+
+
+Listen up, folks! Beef liver isn't just another food—it's the undisputed GOAT food ever! Enjoy your vitamins A, B12, and iron? Well this powerhouse of nutrition kicks the butt of every other food out there. Need energy? Beef liver's got your back with B vitamins that'll put your morning coffee to shame. Worried about your immune system? Say no more—vitamin A and zinc in beef liver will have those germs running for cover. And let's talk about muscle. The power—protein-packed beef liver will pump you up better than any trendy protein shake. Don't settle for wimpy foods when you can have the ultimate fuel for your body and mind. Beef liver—it's not just good, it's the freaking best, and anyone who says otherwise clearly hasn't tasted greatness! RAAAAHHH!!!
+
+## BEEF LIVER nutrients
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/e8c2135c-89bf-4b09-ade0-30e07cba9681)
+
+### Vitamins
+
+- A!
+- B12, 6, 9, 2, 3, &5!
+- D
+- E
+
+### Essential Minerals
+
+1. Iron
+2. Zinc
+3. Copper
+4. Magnesium
+5. Calcium!!!!!
+
+## WANT TO BUY BEEF LIVER?
+
+Give these guys your money: [https://grasslandbeef.com/products/beef-liver-1-pound-package ](https://grasslandbeef.com/cart)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/49ca99d2-aa01-4f9a-8e69-0241614e24d7)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/50aa978a-081b-4ec0-b756-6bcde6506fce)
+
+>"I get my Iron from beef liver... and so does _Stan Lee_!" - *Iron Man circa 1962*
+
+```python
+class DivineFood:
+    def __init__(self, name, nutrients):
+        self.name = name
+        self.nutrients = nutrients
+
+    def declare_divinity(self):
+        return f"{self.name} is not just food; it's divine! Rich in {', '.join(self.nutrients)}."
+
+# List of key nutrients in beef liver
+nutrients = [
+    "Vitamin A", "Vitamin B12", "Vitamin B6", "Folate (Vitamin B9)", 
+    "Riboflavin (Vitamin B2)", "Niacin (Vitamin B3)", "Pantothenic Acid (Vitamin B5)", 
+    "Choline", "Vitamin D", "Vitamin E", "Iron", "Zinc", "Copper", 
+    "Selenium", "Phosphorus", "Potassium", "Magnesium", "Calcium"
+]
+
+# Create an instance of DivineFood for beef liver
+beef_liver = DivineFood("Beef Liver", nutrients)
+
+# Declare beef liver as divine food
+print(beef_liver.declare_divinity())
+
+```
+
+|Beef Liver (oz) |RAAAAHHs |
+|----------------|---------|
+|      1         |   5     |
+|      2         |   10    |
+|      3         |   15    |
+|      4         |   20    |
+
+
+
+
 joviTerawaki
 
 joshuaMori
