@@ -237,7 +237,7 @@ I am Maui raised not born, born of Colorado, early childhood in Illinois, since 
 
 ## Interests (balderekjk)
 
-I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web). New sentence.
+I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web). New sentence. Hana hou.
 
 Markdown also looks very nice by itself, even saved as a .txt file.
 
@@ -320,7 +320,9 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    Test update.
 
 MatthewLabasan
-ansel-newman
+
+ansel-newman\
+rogue line
 # Proficiency in Markdown Challenge Ansel Newman
 ## Introduction
 Welcome to the Markdown proficiency challenge. This section includes various elements demonstrating the versatility of Markdown. I will be talking about fish.
