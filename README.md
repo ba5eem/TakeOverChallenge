@@ -238,58 +238,51 @@ Very affordable. I buy the 200g can of Aoarashi since it's the cheapest, but I r
 
 _With all that said, I still actually drink 4 shots of espresso daily. And matcha. :D_
 
-<<<<<<< HEAD
 codygima
 
 # Cody's Markdown
 
-## Cody Cody
+## Baseball
+All my life I have played baseball up until college. Baseball is such a fun sport to play but boring to watch. Baseball has all its nuances and strategies which makes the game fun.
 
-### Cody Cody Cody
 
+### My Favorite Team
 I like to watch baseball, and I follow the Los Angeles Angels (_Anaheim Angels_). They are what you consider a "poverty franchise", meaning they do not have much success in the
 regular season or post-season. They currently have a young group of players that can hopefully help the organization win more games in the future.
 
-Ordered List:
+### Top Young Angels Player:
 
-1. Apples
-2. Oranges
-3. Bananas
+1. Logan O'Hoppe
+2. Zach Neto
+3. Nolan Schanuel
 
-Unordered List:
+### Main Reasons for Lack of Success:
 
-- Chicken
-- Cow
-- Pig
+- Poor Farm System
+- Greedy Owner
+- Lack of Player-Development Technologies
 
-[Useful link for formatting GitHub code](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+Here are the [2024 Los Angeles Angels Stats](https://www.baseball-reference.com/teams/LAA/2024.shtml)
 
-Here's an image:
-![Shaka](https://i.etsystatic.com/25272370/r/il/633ca5/3738228869/il_fullxfull.3738228869_jsbv.jpg)
+![Los Angeles Angels](https://yt3.googleusercontent.com/XFTKHEUDSPlWfhaEh5U4XRhDBfYHwdyGkULyd3iIHuuKTf0igO733wwF5i2P3J-nz0IiyjCBLg=s900-c-k-c0x00ffffff-no-rj)
 
-Here's a quote:
-
-> “You miss 100% of the shots you don't take.” ― Wayne Gretzky
-
-Code block:
+> _“It sucks being an Angels fan"_ - Angels Fans (for the most part)
 
 ```java
 public static void main(String[] args) {
-  System.out.println("Hello World");
+  System.out.println("The Angels are trash, but just wait 5 years 'til we're good");
 }
 ```
 
-Here's a table:
+Pros/Cons of Being an Angels Fan
 | Pros | Cons |
 | ----------| -----|
-| Good | Bad |
-| Best | Worse |
+| Won't be Called a Bandwagon When We Start Winning | Constant Losing |
 
-Here's something cool I found (task lists):
-
-- [ ] Do this
-- [ ] Then this
-- [ ] Then maybe this
+Angels Fans CheckList:
+- [ ] Wake Up
+- [ ] Watch the Angels Play
+- [ ] Be either happy/disappointed after Angels game (most times disappointed)
 
 balderek
 
