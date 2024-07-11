@@ -482,7 +482,52 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
 
    Test update.
 
-MatthewLabasan
+# MatthewLabasan Markdown Challenge<a name="matt-intro"></a>  
+
+## Introduction
+I absolutely love documenting my food and eating out (even though it's so pricey T_T). There's this app called Beli that let's you rank you're favorite restaurants--I just started last year, and I don't eat out much so its sparse... but I'm gonna talk about it anyways. I've haven't really gone outside of local food and Asian food so hoping to do more of that when I get back to NY! Fun fact, Beli has merch?!?!? <https://beliapp.com/store> :scream: :scream:
+
+## MY TOP RESTAURANTS ON BELI :hamburger: :watermelon: :sushi:
+![beli rankings](images/beli.jpeg "Matt's Beli Rankings")
+### Rankings List
+1. __Kenichi Restaurant__ - super good japanese hawaiian mix food that's okay priced but my best friend's dad is the owner so we get free food ^_^ fave is the korean fried chicken salad you have to try if you go Hilo
+2. __Thai Vientiane Cuisine__ - idk why this is so high up as it wasn't that memorable but it was good thai food and the lady serving us was so nice
+3. __Miss Saigon__ - ugh such a staple at UMass it lowkey had okay pho but the memories here made up for it so that's why it's #3 
+4. __Douzo Sushi__ - high end sushi that my friend's dad paid the entirety of because he was the chef... many of my friend's families own restaurants
+5. __YogurStory__ - located across of Ala Moana in Honolulu and they serve the best french toast ever the ube was so good too
+
+### Honorable Mentions
+* __i-naba Honolulu__ - this was the first place i ordered soba at and it was delicious. its right on s king st a little past university ave in Honolulu
+* __Nud Pob Thai__ - cute little thai restaurant in the middle of Boston Uni. super cheap and ate it all the time when i visit my bu friends
+* __HOODA HALALA FOOD TRUCK__ - food truck located across columbia's main gates ITS LITERALLY MY RIDE OR DIE THEY HAVE THE BEST HALAL FOR $10 its such a great meal but also a trauma meal because everyone gets it in the dead of night amidst studying. it was a five minute walk in the freezing wind from my dorm(which isn't that long ig) but it was always worth it
+![Hooda Man](images/hooda.png "Hooda Halal Man")
+> 'We are family' - my favorite Hooda Halal server
+
+## The code behind Beli
+```class FavoriteApp:
+    def __init__(self, app_name):
+        self.app_name = app_name
+
+    def print_favorite_app(self):
+        print(f"{self.app_name} is my favorite app")
+
+# Creating an instance of FavoriteApp
+my_favorite_app = FavoriteApp("Beli")
+
+# Calling the method to print the message
+my_favorite_app.print_favorite_app()
+```
+# My Beli Stats
+\# Restaurants Ranked | \# Want to Try | Current Streak
+| :---: | :---: | :---:
+52 :star: | 48 :stuck_out_tongue_winking_eye: | 0 :disappointed:
+
+I learned you can link to places in your read me! This is super cool and useful in documentation.
+[Go back to my introduction button!](#matt-intro) 
+
+Thanks Gabi for the cheat sheet! It was super helpful!! 
+
+
 
 ansel-newman\
 rogue line
