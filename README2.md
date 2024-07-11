@@ -61,7 +61,75 @@ to the same README file. Locate your username in the README and add your
 content under your username. Once you have added your content, submit a pull
 request. Good luck, and have fun learning Markdown!
 
-nilonono
+- - - -
+**nilonono**
+
+# Nxlo
+## Shown as: Nilo, Nelo
+### Pronounced as: (Nil-o), (Nel-o), (Nai-lo)
+
+Aloha everyone,
+My name is Nilo. I've had it shown Nxlo virtually because I've had my name pronounced many different ways. I respond to any, plus it's easier to pronounce and remember than my legal name lol. I'm born & raised on the island of Maui. I have very many interests, which include: various forms of art (drawing, music, dance), passion in cars, and yearning to learn.
+
+<br>
+
+1. Two
+   1. Buckle my shoe
+
+
+- 9
+  - Nine
+     - IX
+       - Neva mind
+
+</br>
+
+<br>
+
+[Bandit:OverTheWire](https://overthewire.org/wargames/bandit/)  
+A fun game that teaches you to navigate and input Linux command/Bash(shell) scripting (*Thank you Ansel!*)
+
+</br>
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/164127832/ffe6fd69-de78-4637-ae9f-5a74367dbaf6)
+> Thank You Based God! :pray:
+
+
+<br>
+
+My general favorite quote(s)  
+> Love is Love.
+
+and
+
+> > Love would never disrespect.
+
+</br>
+
+
+```python
+# My first code in a programming language
+print('Hello World!)
+```
+
+<br>
+
+> But I learned first like most of us older millenials: <html> MySpace </html>
+
+</br>
+
+
+| left | right | your other right |
+| :--- | ---: | :---:
+| get it | got it | good |
+
+
+<details>
+ <summary>Markdown Surprise</summary>
+ <p>*Thanks to Gabby, I found this pretty neat markup code</p>
+</details>
+
+- - - -
 
 mistydelacruz
 
