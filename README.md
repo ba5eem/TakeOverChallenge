@@ -109,7 +109,7 @@ and
 
 ```python
 # My first code in a programming language
-print('Hello World!)
+print('Hello World!')
 ```
 
 <br>
