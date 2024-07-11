@@ -265,7 +265,7 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
 
    A slack dedicated to building community opportunities, including tech. Both Oahu and Maui. Join and keep tabs. There are two sub-channels for seeking and recruiting jobs.
 
-   Their sister site is Hawaii Discord.
+   Their sister site is Hawaii Discord...
 
    Hawaii Discord Coda:
 
