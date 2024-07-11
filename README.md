@@ -86,8 +86,8 @@ Frutiger Aero is a visual aesthetic that emerged in the mid-2000s and is charact
 Most imagery had these objects in mind:
 
 - Technology
-- Nature-inpsired elements
-- 3D viuals or vectors
+- Nature-inspired elements
+- 3D visuals or vectors
 - Lighting effects
 
 ### Who Was Using This Aesthetic? 👩‍💻
