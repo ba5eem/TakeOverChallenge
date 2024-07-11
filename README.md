@@ -64,6 +64,7 @@ request. Good luck, and have fun learning Markdown!
 nilonono
 
 mistydelacruz
+
 # Frutiger Aero Aesthetic is Peak 🌎
 
 Frutiger Aero is a type of aesthetical artform that started from the early 2000s (2004-2013). You might have seen pictures like this at some point in your life:
@@ -83,6 +84,7 @@ I was born into this aesthetic and grew up with it. It gives off a nostaglic fee
 Frutiger Aero is a visual aesthetic that emerged in the mid-2000s and is characterized by its sleek, clean, and somewhat futuristic look. It takes its name from the Swiss typeface designer Adrian Frutiger and the "Aero" design elements, which convey a sense of modernity and airiness.
 
 Most imagery had these objects in mind:
+
 - Technology
 - Nature-inpsired elements
 - 3D viuals or vectors
@@ -99,7 +101,7 @@ Most imagery had these objects in mind:
 > Technology companies often used Frutiger Aero elements in their marketing materials to convey innovation and sophistication.
 
 | PROS      | CONS          |
-|---------- | ------------- |
+| --------- | ------------- |
 | Childhood | Short-lived   |
 | Nostalgia | Done & Dusted |
 
@@ -109,32 +111,47 @@ A link to my favorite Frutiger Aero Inspired Playlist:
 [Frutiger Aero Playlist](https://www.youtube.com/watch?v=hHvhz6b6edo&t=146s)
 
 kaylamarie
+
 # Why should you participate in ceramics?
+
 [**Pottery**](https://en.wikipedia.org/wiki/Pottery), one of the oldest human crafts dating back to around 29,000 BCE, began as a necessity for creating durable containers but evolved into a significant cultural and artistic endeavor. Over time, it became a medium for artistic expression and cultural storytelling, with civilizations like the Greeks and Chinese developing renowned techniques and designs. Today, pottery blends functionality with beauty and remains a vital part of cultural heritage and artistic practice.
+
 ## Benefits
+
 ### Mental Health
+
 - Stress Relief: Creating art and pottery can be very relaxing, helping to reduce stress and anxiety.
 - Mindfulness: Focusing on the creative process helps cultivate mindfulness, and encourages being present in the moment.
 - Emotional Expression: Art provides a medium to express emotions and thoughts that might be difficult to verbalize.
- - Mental Stimulation: Art stimulates the brain, encouraging problem-solving and innovative thinking.
-### Physical Health 
+- Mental Stimulation: Art stimulates the brain, encouraging problem-solving and innovative thinking.
+
+### Physical Health
+
 1. Fine Motor Skills: Working with clay and other materials enhances fine motor skills and hand-eye coordination.
 
 2. Hand Strength: Kneading and shaping clay can strengthen hand muscles and improve dexterity.
 
 3. Sensory Experience: The tactile experience of working with different textures and materials can be very soothing and engaging.
+
 ### Cognitive Benefits
+
 | Benefits               | Cost      |
-|------------------------|-----------|
+| ---------------------- | --------- |
 | Creativity Boost       | Priceless |
 | Problem-Solving Skills | Priceless |
 | Memory Enhancement     | Priceless |
-### Educational Benefits 
->"Shaping clay with our hands teaches our children to be nimble and strong, vital for daily tasks and survival. Crafting pots and vessels stirs our minds, making us think creatively and solve problems as we shape and decorate. Through pottery, we share and preserve our tribe's stories and traditions, passing wisdom from one generation to the next." - ***ChatGPT on pottery, as if it were from 29,000 BCE***
+
+### Educational Benefits
+
+> "Shaping clay with our hands teaches our children to be nimble and strong, vital for daily tasks and survival. Crafting pots and vessels stirs our minds, making us think creatively and solve problems as we shape and decorate. Through pottery, we share and preserve our tribe's stories and traditions, passing wisdom from one generation to the next." - **_ChatGPT on pottery, as if it were from 29,000 BCE_**
+
 ## My Fruit Coasters
+
 ![](images/clay_coaster.jpeg)
 These are the fruit coasters I made last Friday in my ceramics class. This Friday we go back to paint them!
+
 ### </br> Can you guess what fruits they are? </br>
+
 <details> 
     <summary>
 Hit the triangle to find out!
@@ -163,11 +180,78 @@ pottery.create_pottery()
 
 ```
 
-
-
-
-
 kailanabaylosis
+
+# THIS IS WHY BEEF LIVER!!!
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/86b29045-c223-4a33-be7f-d70211f37bcc)
+
+
+Listen up, folks! Beef liver isn't just another food—it's the undisputed GOAT food ever! Enjoy your vitamins A, B12, and iron? Well this powerhouse of nutrition kicks the butt of every other food out there. Need energy? Beef liver's got your back with B vitamins that'll put your morning coffee to shame. Worried about your immune system? Say no more—vitamin A and zinc in beef liver will have those germs running for cover. And let's talk about muscle. The power—protein-packed beef liver will pump you up better than any trendy protein shake. Don't settle for wimpy foods when you can have the ultimate fuel for your body and mind. Beef liver—it's not just good, it's the freaking best, and anyone who says otherwise clearly hasn't tasted greatness! RAAAAHHH!!!
+
+## BEEF LIVER nutrients
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/e8c2135c-89bf-4b09-ade0-30e07cba9681)
+
+### Vitamins
+
+- A!
+- B12, 6, 9, 2, 3, &5!
+- D
+- E
+
+### Essential Minerals
+
+1. Iron
+2. Zinc
+3. Copper
+4. Magnesium
+5. Calcium!!!!!
+
+## WANT TO BUY BEEF LIVER?
+
+Give these guys your money: [https://grasslandbeef.com/products/beef-liver-1-pound-package ](https://grasslandbeef.com/cart)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/49ca99d2-aa01-4f9a-8e69-0241614e24d7)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/50aa978a-081b-4ec0-b756-6bcde6506fce)
+
+>"I get my Iron from beef liver... and so does _Stan Lee_!" - *Iron Man circa 1962*
+
+```python
+class DivineFood:
+    def __init__(self, name, nutrients):
+        self.name = name
+        self.nutrients = nutrients
+
+    def declare_divinity(self):
+        return f"{self.name} is not just food; it's divine! Rich in {', '.join(self.nutrients)}."
+
+# List of key nutrients in beef liver
+nutrients = [
+    "Vitamin A", "Vitamin B12", "Vitamin B6", "Folate (Vitamin B9)", 
+    "Riboflavin (Vitamin B2)", "Niacin (Vitamin B3)", "Pantothenic Acid (Vitamin B5)", 
+    "Choline", "Vitamin D", "Vitamin E", "Iron", "Zinc", "Copper", 
+    "Selenium", "Phosphorus", "Potassium", "Magnesium", "Calcium"
+]
+
+# Create an instance of DivineFood for beef liver
+beef_liver = DivineFood("Beef Liver", nutrients)
+
+# Declare beef liver as divine food
+print(beef_liver.declare_divinity())
+
+```
+
+|Beef Liver (oz) |RAAAAHHs |
+|----------------|---------|
+|      1         |   5     |
+|      2         |   10    |
+|      3         |   15    |
+|      4         |   20    |
+
+
+
 
 joviTerawaki  
 # About Rason  
@@ -262,6 +346,50 @@ _With all that said, I still actually drink 4 shots of espresso daily. And match
 
 codygima
 
+# Cody's Markdown
+
+## Baseball
+All my life I have played baseball up until college. Baseball is such a fun sport to play but boring to watch. Baseball has all its nuances and strategies which makes the game fun.
+
+
+### My Favorite Team
+I like to watch baseball, and I follow the Los Angeles Angels (_Anaheim Angels_). They are what you consider a "poverty franchise", meaning they do not have much success in the
+regular season or post-season. They currently have a young group of players that can hopefully help the organization win more games in the future.
+
+### Top Young Angels Player:
+
+1. Logan O'Hoppe
+2. Zach Neto
+3. Nolan Schanuel
+
+### Main Reasons for Lack of Success:
+
+- Poor Farm System
+- Greedy Owner
+- Lack of Player-Development Technologies
+
+Here are the [2024 Los Angeles Angels Stats](https://www.baseball-reference.com/teams/LAA/2024.shtml)
+
+![Los Angeles Angels](https://yt3.googleusercontent.com/XFTKHEUDSPlWfhaEh5U4XRhDBfYHwdyGkULyd3iIHuuKTf0igO733wwF5i2P3J-nz0IiyjCBLg=s900-c-k-c0x00ffffff-no-rj)
+
+> _“It sucks being an Angels fan"_ - Angels Fans (for the most part)
+
+```java
+public static void main(String[] args) {
+  System.out.println("The Angels are trash, but just wait 5 years 'til we're good");
+}
+```
+
+Pros/Cons of Being an Angels Fan
+| Pros | Cons |
+| ----------| -----|
+| Won't be Called a Bandwagon When We Start Winning | Constant Losing |
+
+Angels Fans CheckList:
+- [ ] Wake Up
+- [ ] Watch the Angels Play
+- [ ] Be either happy/disappointed after Angels game (most times disappointed)
+
 balderek
 
 # About Me (balderekjk)
@@ -321,26 +449,26 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    Code blocks are sweet. After the opening three backticks ` ``` `, specify your language `javascript` like:
 
    > \```javascript  
-   function HelloARL() {  
-   &nbsp;&nbsp;console.log('ARL Oahu and Maui are awesome and supportive.');  
-   }  
-   HelloARL();  
-   \```
+   > function HelloARL() {  
+   > &nbsp;&nbsp;console.log('ARL Oahu and Maui are awesome and supportive.');  
+   > }  
+   > HelloARL();  
+   > \```
 
    The above will render like:
 
    ```javascript
    function HelloARL() {
-     console.log('ARL Oahu and Maui are awesome and supportive.');
+     console.log("ARL Oahu and Maui are awesome and supportive.");
    }
    HelloARL();
    ```
 
 5. Tables (balderekjk)
 
-   |Tables|are|fun|
-   |:---:|:---|---:|
-   |I am centered|I am left|I am right|
+   |    Tables     | are       |        fun |
+   | :-----------: | :-------- | ---------: |
+   | I am centered | I am left | I am right |
 
 6. Surprise Me! (balderekjk)
 
@@ -358,37 +486,47 @@ MatthewLabasan
 
 ansel-newman\
 rogue line
+
 # Proficiency in Markdown Challenge Ansel Newman
+
 ## Introduction
+
 Welcome to the Markdown proficiency challenge. This section includes various elements demonstrating the versatility of Markdown. I will be talking about fish.
 
 ### About the Great Barrier Reef
+
 The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system, stretching over 2,300 kilometers. It is renowned for its breathtaking beauty and rich biodiversity, home to thousands of marine species, including colorful corals, fish, mollusks, and sea turtles. The reef is a UNESCO World Heritage site and a popular destination for snorkeling, diving, and marine research. However, it faces significant threats from climate change, coral bleaching, and human activities, making conservation efforts crucial to its survival.
 
 ## Lists
+
 ### Ordered List:
+
 1. Go to Australia
 2. Hire a boat and get Scuba gear
 3. Go find Nemo
 
 ### Unordered List:
+
 - Watch out for addictive sharks
 - Beware venomous jellyfish
 - Avoid turtle hippies
 
 ## Useful Link
+
 Check out [Great Barrier Reef Facts](https://sailing-whitsundays.com/article/fun-facts-about-the-great-barrier-reef) for interesting reef facts.
 
 ![Placeholder Image](https://i0.wp.com/media3.giphy.com/media/GazPMD1iWfgcM/giphy.gif)
 
 ## Quote
+
 > "Fish are friends not food!" - the heavy shark
 
-   |Republican|Centrist|Liberal|
-   |:---:|:---|---:|
-   |Marlin|Nemo|Dory|
-   
+| Republican | Centrist | Liberal |
+| :--------: | :------- | ------: |
+|   Marlin   | Nemo     |    Dory |
+
 ## Code Block (DO NOT RUN ANYWHERE!)
+
 ```python
     import os
     def breakComputer():
@@ -398,6 +536,3 @@ Check out [Great Barrier Reef Facts](https://sailing-whitsundays.com/article/fun
 ```
 
 ### surprise: I learned about tables! Also sharks can't flip upside down. 😄
-
-
-
