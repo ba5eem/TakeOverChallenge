@@ -88,7 +88,7 @@ Most imagery had these objects in mind:
 - 3D visuals or vectors
 - Lighting effects
 
-### Who Was Using This Aesthetic? 👩‍💻
+## Who Was Using This Aesthetic? 👩‍💻
 
 1. Windows
 2. Apple
