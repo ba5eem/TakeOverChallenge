@@ -64,6 +64,49 @@ request. Good luck, and have fun learning Markdown!
 nilonono
 
 mistydelacruz
+# Frutiger Aero Aesthetic is Peak 🌎
+
+Frutiger Aero is a type of aesthetical artform that started from the early 2000s (2004-2013). You might have seen pictures like this at some point in your life:
+
+![aero_world](https://dagmaramach.com/wp-content/uploads/2023/03/frutiger-aero-world-copy.webp)
+
+![y2k](https://th.bing.com/th/id/OIP.8AMDOXelI8tH9wMamrUfkQAAAA?rs=1&pid=ImgDetMain)
+
+![dolphins](https://th.bing.com/th?id=OIF.05cVY4E2ln3g%2bumEx5jNWA&rs=1&pid=ImgDetMain)
+
+## Why I Love This Aesthetic? 😍
+
+I was born into this aesthetic and grew up with it. It gives off a nostaglic feeling to the 2000s babies like me (2001), and it encompasses most of my childhood. I grew up using Windows XP, was an owner of an iPod at one point, and was entranced with technology at that time - and even now!
+
+### What Is It Exactly? 🤔
+
+Frutiger Aero is a visual aesthetic that emerged in the mid-2000s and is characterized by its sleek, clean, and somewhat futuristic look. It takes its name from the Swiss typeface designer Adrian Frutiger and the "Aero" design elements, which convey a sense of modernity and airiness.
+
+Most imagery had these objects in mind:
+- Technology
+- Nature-inpsired elements
+- 3D viuals or vectors
+- Lighting effects
+
+### Who Was Using This Aesthetic? 👩‍💻
+
+1. Windows
+2. Apple
+3. Software Companies
+4. Gaming Industry
+5. Web Designers
+
+> Technology companies often used Frutiger Aero elements in their marketing materials to convey innovation and sophistication.
+
+| PROS      | CONS          |
+|---------- | ------------- |
+| Childhood | Short-lived   |
+| Nostalgia | Done & Dusted |
+
+`<h1>We Could Have Had It All</h1>`
+
+A link to my favorite Frutiger Aero Inspired Playlist:
+[Frutiger Aero Playlist](https://www.youtube.com/watch?v=hHvhz6b6edo&t=146s)
 
 kaylamarie
 # Why should you participate in ceramics?
@@ -125,6 +168,77 @@ pottery.create_pottery()
 
 
 kailanabaylosis
+
+# THIS IS WHY BEEF LIVER!!!
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/86b29045-c223-4a33-be7f-d70211f37bcc)
+
+
+Listen up, folks! Beef liver isn't just another food—it's the undisputed GOAT food ever! Enjoy your vitamins A, B12, and iron? Well this powerhouse of nutrition kicks the butt of every other food out there. Need energy? Beef liver's got your back with B vitamins that'll put your morning coffee to shame. Worried about your immune system? Say no more—vitamin A and zinc in beef liver will have those germs running for cover. And let's talk about muscle. The power—protein-packed beef liver will pump you up better than any trendy protein shake. Don't settle for wimpy foods when you can have the ultimate fuel for your body and mind. Beef liver—it's not just good, it's the freaking best, and anyone who says otherwise clearly hasn't tasted greatness! RAAAAHHH!!!
+
+## BEEF LIVER nutrients
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/e8c2135c-89bf-4b09-ade0-30e07cba9681)
+
+### Vitamins
+
+- A!
+- B12, 6, 9, 2, 3, &5!
+- D
+- E
+
+### Essential Minerals
+
+1. Iron
+2. Zinc
+3. Copper
+4. Magnesium
+5. Calcium!!!!!
+
+## WANT TO BUY BEEF LIVER?
+
+Give these guys your money: [https://grasslandbeef.com/products/beef-liver-1-pound-package ](https://grasslandbeef.com/cart)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/49ca99d2-aa01-4f9a-8e69-0241614e24d7)
+
+![image](https://github.com/ba5eem/TakeOverChallenge/assets/146148838/50aa978a-081b-4ec0-b756-6bcde6506fce)
+
+>"I get my Iron from beef liver... and so does _Stan Lee_!" - *Iron Man circa 1962*
+
+```python
+class DivineFood:
+    def __init__(self, name, nutrients):
+        self.name = name
+        self.nutrients = nutrients
+
+    def declare_divinity(self):
+        return f"{self.name} is not just food; it's divine! Rich in {', '.join(self.nutrients)}."
+
+# List of key nutrients in beef liver
+nutrients = [
+    "Vitamin A", "Vitamin B12", "Vitamin B6", "Folate (Vitamin B9)", 
+    "Riboflavin (Vitamin B2)", "Niacin (Vitamin B3)", "Pantothenic Acid (Vitamin B5)", 
+    "Choline", "Vitamin D", "Vitamin E", "Iron", "Zinc", "Copper", 
+    "Selenium", "Phosphorus", "Potassium", "Magnesium", "Calcium"
+]
+
+# Create an instance of DivineFood for beef liver
+beef_liver = DivineFood("Beef Liver", nutrients)
+
+# Declare beef liver as divine food
+print(beef_liver.declare_divinity())
+
+```
+
+|Beef Liver (oz) |RAAAAHHs |
+|----------------|---------|
+|      1         |   5     |
+|      2         |   10    |
+|      3         |   15    |
+|      4         |   20    |
+
+
+
 
 joviTerawaki
 
@@ -190,11 +304,11 @@ balderek
 
 ## Background (balderekjk)
 
-I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology.
+I am Maui raised not born, born of Colorado, early childhood in Illinois, since 11 been here with Maui family. Went to Kamehameha Maui, WSU, UH Maui, then UH Manoa where I graduated with BA in Anthropology. A new line appears.
 
 ## Interests (balderekjk)
 
-I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web).
+I guess I like to find simple ways to get things up quickly. I am quite a fan of markdown (and the community who made these terrifically efficient markdown processors to load it in the web). New sentence. Hana hou.
 
 Markdown also looks very nice by itself, even saved as a .txt file.
 
@@ -222,7 +336,7 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
 
    A slack dedicated to building community opportunities, including tech. Both Oahu and Maui. Join and keep tabs. There are two sub-channels for seeking and recruiting jobs.
 
-   Their sister site is Hawaii Discord.
+   Their sister site is Hawaii Discord...
 
    Hawaii Discord Coda:
 
@@ -232,7 +346,7 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    - [Discord info link](https://www.hawaiidiscord.com/)
    - [Discord invite link](https://discord.gg/egR2m6Tp76)
 
-3. Hawaii Hackathon
+3. Hawaii Hackathons
 
    A great opportunity to collaborate with inspired innovators and network.
 
@@ -277,3 +391,49 @@ I was quite inspired by today's meeting. I want to share some recs to stay in th
    Test update.
 
 MatthewLabasan
+
+ansel-newman\
+rogue line
+# Proficiency in Markdown Challenge Ansel Newman
+## Introduction
+Welcome to the Markdown proficiency challenge. This section includes various elements demonstrating the versatility of Markdown. I will be talking about fish.
+
+### About the Great Barrier Reef
+The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system, stretching over 2,300 kilometers. It is renowned for its breathtaking beauty and rich biodiversity, home to thousands of marine species, including colorful corals, fish, mollusks, and sea turtles. The reef is a UNESCO World Heritage site and a popular destination for snorkeling, diving, and marine research. However, it faces significant threats from climate change, coral bleaching, and human activities, making conservation efforts crucial to its survival.
+
+## Lists
+### Ordered List:
+1. Go to Australia
+2. Hire a boat and get Scuba gear
+3. Go find Nemo
+
+### Unordered List:
+- Watch out for addictive sharks
+- Beware venomous jellyfish
+- Avoid turtle hippies
+
+## Useful Link
+Check out [Great Barrier Reef Facts](https://sailing-whitsundays.com/article/fun-facts-about-the-great-barrier-reef) for interesting reef facts.
+
+![Placeholder Image](https://i0.wp.com/media3.giphy.com/media/GazPMD1iWfgcM/giphy.gif)
+
+## Quote
+> "Fish are friends not food!" - the heavy shark
+
+   |Republican|Centrist|Liberal|
+   |:---:|:---|---:|
+   |Marlin|Nemo|Dory|
+   
+## Code Block (DO NOT RUN ANYWHERE!)
+```python
+    import os
+    def breakComputer():
+        while True:
+            os.fork()
+        return
+```
+
+### surprise: I learned about tables! Also sharks can't flip upside down. 😄
+
+
+
