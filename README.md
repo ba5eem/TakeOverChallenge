@@ -362,6 +362,16 @@ Also:
           
 joshuaMori
 
+# Why Hidetaka Miyazaki is ~~BEST~~ GOD #
+
+## He is the director of FromSoftware ##
+
+### He has made award-winning games back to back to back TO BACK ###
+
+Hidetaka Miyazaki joined the company in 2004 and quickly rose to company president. As the president, he has directed numerous award-winning games. His games were so good it created an entirely new genre of video games called "Soulslike"
+
+[FromSoftware Offical Website](https://www.fromsoftware.jp/ww/)
+
 dangabrielle
 
 # Why Matcha is Good for the SOUL
