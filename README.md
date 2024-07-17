@@ -368,10 +368,49 @@ joshuaMori
 
 ### He has made award-winning games back to back to back TO BACK ###
 
-Hidetaka Miyazaki joined the company in 2004 and quickly rose to company president. As the president, he has directed numerous award-winning games. His games were so good it created an entirely new genre of video games called "Soulslike"
+Hidetaka Miyazaki joined the company in 2004 and quickly rose to company president. As the president, he has directed numerous award-winning games. His games were so good it created an entirely new genre of video games called "Soulslike" or "Soulsborne"
+
+These Soulslike games include:
+ - Bloodborne
+ - Dark Souls 1
+ - Dark Souls 2
+ - Dark Souls 3
+ - Demon Souls
+ - Sekiro
+ - Elden Ring
+ - Armored Core VI (arguably)
+
+Although the Soulslike genre is universally recognized and credited for pioneering a new understanding of how video games should be played, much of the gameplay elements and story is heavily inspired by other forms of media. 
+These include:
+1. Ico
+2. King's Field
+3. Shadow of the Colossus
+4. Berserk
+5. JoJo's Bizarre Adventure
+6. Dragon Quest
 
 [FromSoftware Offical Website](https://www.fromsoftware.jp/ww/)
+You can find more information about these games here ^^^
+- - - -
+![picture alt]([https://media.wired.com/photos/5955c1dc5992c54331ac192f/master/pass/bloodborne_the_old_hunters_V2.jpg](https://pbs.twimg.com/media/Eo7HdrzVgAItX5p.jpg:large) "God")
+> Hidetaka Miyazaki, 2024
+> > "Maybe the real Dark Soul was the friends we made along the way?"
 
+`var numbah = 1;
+if (numbah === 1) {
+   console.log("Miyazaki is GOAT");
+}
+`
+S-tier  | DS 1, DS 3, Demon Souls, Sekiro, Bloodborne, Armored Core, Elden Ring 
+------- | -------
+F-Tier  | Dark Souls 2 
+
+<details>
+   <summary> SURPRISE HERE </summary>
+   <p> ![Doggo]([https://i.pinimg.com/236x/1b/8a/bf/1b8abf4c43fadf1d86ad565af1aeaf74.jpg "Dog") </p>
+</details>
+
+- - - -
 dangabrielle
 
 # Why Matcha is Good for the SOUL
