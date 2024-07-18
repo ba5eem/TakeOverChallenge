@@ -392,22 +392,23 @@ These include:
 [FromSoftware Offical Website](https://www.fromsoftware.jp/ww/)
 You can find more information about these games here ^^^
 - - - -
-![picture alt]([https://media.wired.com/photos/5955c1dc5992c54331ac192f/master/pass/bloodborne_the_old_hunters_V2.jpg](https://pbs.twimg.com/media/Eo7HdrzVgAItX5p.jpg:large) "God")
+![Jesus](https://pbs.twimg.com/media/Eo7HdrzVgAItX5p.jpg:large)
 > Hidetaka Miyazaki, 2024
 > > "Maybe the real Dark Soul was the friends we made along the way?"
 
-`var numbah = 1;
-if (numbah === 1) {
-   console.log("Miyazaki is GOAT");
+`var numbag = 1;
+if (numbah === 1 ) {
+    console.log("Miyazaki is GOAT");
 }
 `
+
 S-tier  | DS 1, DS 3, Demon Souls, Sekiro, Bloodborne, Armored Core, Elden Ring 
 ------- | -------
-F-Tier  | Dark Souls 2 
+F-tier  | Dark Souls 2 
 
 <details>
    <summary> SURPRISE HERE </summary>
-   <p> ![Doggo]([https://i.pinimg.com/236x/1b/8a/bf/1b8abf4c43fadf1d86ad565af1aeaf74.jpg "Dog") </p>
+   <IMG src="https://64.media.tumblr.com/2bee712b89ec22728a70cf0d4a2fe40a/a2ab12aef86c395b-2f/s1280x1920/2353393e96feab15d56704aa9657d33a02f42250.jpg"/>
 </details>
 
 - - - -
