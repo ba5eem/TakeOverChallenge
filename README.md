@@ -362,6 +362,56 @@ Also:
           
 joshuaMori
 
+# Why Hidetaka Miyazaki is ~~BEST~~ GOD #
+
+## He is the director of FromSoftware ##
+
+### He has made award-winning games back to back to back TO BACK ###
+
+Hidetaka Miyazaki joined the company in 2004 and quickly rose to company president. As the president, he has directed numerous award-winning games. His games were so good it created an entirely new genre of video games called "Soulslike" or "Soulsborne"
+
+These Soulslike games include:
+ - Bloodborne
+ - Dark Souls 1
+ - Dark Souls 2
+ - Dark Souls 3
+ - Demon Souls
+ - Sekiro
+ - Elden Ring
+ - Armored Core VI (arguably)
+
+Although the Soulslike genre is universally recognized and credited for pioneering a new understanding of how video games should be played, much of the gameplay elements and story is heavily inspired by other forms of media. 
+These include:
+1. Ico
+2. King's Field
+3. Shadow of the Colossus
+4. Berserk
+5. JoJo's Bizarre Adventure
+6. Dragon Quest
+
+[FromSoftware Offical Website](https://www.fromsoftware.jp/ww/)
+You can find more information about these games here ^^^
+- - - -
+![Jesus](https://pbs.twimg.com/media/Eo7HdrzVgAItX5p.jpg:large)
+> Hidetaka Miyazaki, 2024
+> > "Maybe the real Dark Soul was the friends we made along the way?"
+
+`var numbag = 1;
+if (numbah === 1 ) {
+    console.log("Miyazaki is GOAT");
+}
+`
+
+S-tier  | DS 1, DS 3, Demon Souls, Sekiro, Bloodborne, Armored Core, Elden Ring 
+------- | -------
+F-tier  | Dark Souls 2 
+
+<details>
+   <summary> SURPRISE HERE </summary>
+   <IMG src="https://64.media.tumblr.com/2bee712b89ec22728a70cf0d4a2fe40a/a2ab12aef86c395b-2f/s1280x1920/2353393e96feab15d56704aa9657d33a02f42250.jpg"/>
+</details>
+
+- - - -
 dangabrielle
 
 # Why Matcha is Good for the SOUL
