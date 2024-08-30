@@ -1,0 +1,25 @@
+name: Check for .gitignore
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-gitignore:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Check if .gitignore exists
+        run: |
+          if [ ! -f .gitignore ]; then
+            echo "Error: .gitignore file is missing."
+            exit 1
+          fi
+
